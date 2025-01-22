@@ -221,7 +221,7 @@
     "Action": {
       "Darker": {
         "$type": "color",
-        "$value": "#E32B68"
+        "$value": "#53182B"
       }
     },
     "Alert": {
