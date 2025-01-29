@@ -1,0 +1,34 @@
+{
+  "Color": {
+    "$type": "color",
+    "$value": "#ffffff"
+  },
+  "a": {
+    "token": {
+      "bool val": {
+        "$type": "boolean",
+        "$value": false
+      },
+      "inside": {
+        "a": {
+          "deeply": {
+            "nested": {
+              "structure": {
+                "for": {
+                  "testing": {
+                    "$type": "color",
+                    "$value": "#ff0000"
+                  },
+                  "testing 2": {
+                    "$type": "color",
+                    "$value": "{a.Red 1.a}"
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}
