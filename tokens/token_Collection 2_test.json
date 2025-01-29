@@ -1,0 +1,10 @@
+{
+  "From another collection": {
+    "$type": "color",
+    "$value": "{Color 5}"
+  },
+  "blue": {
+    "$type": "color",
+    "$value": "#749c5b"
+  }
+}
