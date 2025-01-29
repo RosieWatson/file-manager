@@ -1,0 +1,10 @@
+{
+  "Color 5": {
+    "$type": "color",
+    "$value": "{Color 4}"
+  },
+  "blue": {
+    "$type": "color",
+    "$value": "#a41919"
+  }
+}
