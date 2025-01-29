@@ -1,0 +1,48 @@
+{
+  "Color": {
+    "$type": "color",
+    "$value": "#ffffff"
+  },
+  "Colour with opacity": {
+    "$type": "color",
+    "$value": "rgba(255, 255, 0, 0.2500)"
+  },
+  "Num value": {
+    "$type": "number",
+    "$value": 0.9
+  },
+  "String Val": {
+    "$type": "string",
+    "$value": "a"
+  },
+  "a": {
+    "Red 1": {
+      "a": {
+        "$type": "color",
+        "$value": "#ce0000"
+      }
+    }
+  },
+  "b": {
+    "Red 1": {
+      "$type": "color",
+      "$value": "#ce0000"
+    }
+  },
+  "blue": {
+    "$type": "color",
+    "$value": "#66dce7"
+  },
+  "green": {
+    "$type": "color",
+    "$value": "#69db7c"
+  },
+  "grey": {
+    "$type": "color",
+    "$value": "#d9d9d9"
+  },
+  "new var who dis?": {
+    "$type": "color",
+    "$value": "#0000ff"
+  }
+}
