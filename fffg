@@ -1,0 +1,6 @@
+:root {
+  --d9-d9-d9: #AA2D2D;
+  --text-icons-neutral-primary-reversed: #FFFFFF;
+  --text-icons-neutral-secondary: #605F60;
+  --untitled-a-folder-another-1-style: #515656; /* Some color */
+}
