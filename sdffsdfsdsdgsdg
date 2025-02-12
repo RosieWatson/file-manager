@@ -1,0 +1,25 @@
+{
+  "color": {
+    "#D9D9D9": {
+      "value": "#AA2D2D"
+    },
+    "Untitled": {
+      "A folder": {
+        "Another 1 style": {
+          "value": "#515656",
+          "comment": "Some color"
+        }
+      }
+    },
+    "Text & Icons": {
+      "Neutral": {
+        "Secondary": {
+          "value": "#605F60"
+        },
+        "Primary-Reversed": {
+          "value": "#FFFFFF"
+        }
+      }
+    }
+  }
+}
