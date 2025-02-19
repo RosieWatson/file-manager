@@ -1,0 +1,14 @@
+{
+  "Border Width": {
+    "$type": "number",
+    "$value": 2
+  },
+  "Greeting": {
+    "$type": "string",
+    "$value": "¡Hola!"
+  },
+  "IsActive": {
+    "$type": "boolean",
+    "$value": false
+  }
+}
